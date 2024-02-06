@@ -4,7 +4,7 @@ import (
 	"flag"
 	"log"
 
-	abs "github.com/reversTeam/go-ms-tools/services/abs"
+	"github.com/reversTeam/go-ms-tools/services/abs"
 	"github.com/reversTeam/go-ms-tools/services/child"
 	"github.com/reversTeam/go-ms/core"
 )
